@@ -1,0 +1,1 @@
+# Accupedo-vs.-Fitbit-Part-1-Convergent-Validity-of-Hourly-Step-Counts-with-R
